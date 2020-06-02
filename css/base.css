@@ -1,4 +1,12 @@
-* {
-  max-width: 960px;
-  margin: auto;
+body {
+  max-width: 480;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.letter {
+  background-color: grey;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
 }
